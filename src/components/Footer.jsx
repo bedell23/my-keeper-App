@@ -5,7 +5,8 @@ const thisYear = new Date().getFullYear();
 function Footer() {
   return (
     <footer>
-      <p>Copyright &copy; {thisYear}</p>;
+      <p>Copyright &copy; {thisYear}</p>
+      <p>Created by Divine & Disire</p>
     </footer>
   );
 }
