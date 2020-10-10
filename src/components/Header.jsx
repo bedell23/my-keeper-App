@@ -1,9 +1,14 @@
 import React from "react";
+import HighlightIcon from "@material-ui/icons/Highlight";
 
 function Header() {
   return (
     <header>
-      <h1>Note Taker</h1>
+      <h1>
+        {" "}
+        <HighlightIcon />
+        Note Taker
+      </h1>
     </header>
   );
 }

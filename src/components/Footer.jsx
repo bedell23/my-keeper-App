@@ -6,7 +6,7 @@ function Footer() {
   return (
     <footer>
       <p>Copyright &copy; {thisYear}</p>
-      <p>Created by Divine & Disire</p>
+      <p>Created Doloquee M. Bedell jr</p>
     </footer>
   );
 }
